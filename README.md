@@ -21,6 +21,7 @@ https://python.swaroopch.com <br>
 https://github.com/python-gitlab/python-gitlab <br>
 
 # various
+https://www.geeksforgeeks.org/<br>
 https://www.tutorialspoint.com/tutorialslibrary.htm <br>
 https://jvns.ca/zines/#linux-comics <br>
 https://www.codecademy.com/catalog/subject/all <br>
