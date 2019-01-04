@@ -31,6 +31,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 https://access.redhat.com/documentation/en-us/ <br>
 https://www.tecmint.com/linux-network-configuration-and-troubleshooting-commands/ <br>
 https://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/c8319.htm <br>
+https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/ <br>
 
 # vim
 http://vim.wikia.com/wiki/Use_Vim_like_an_IDE <br>
