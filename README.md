@@ -35,3 +35,7 @@ https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/ <br>
 
 # vim
 http://vim.wikia.com/wiki/Use_Vim_like_an_IDE <br>
+https://github.com/VundleVim/Vundle.vim <br>
+
+# Web
+https://developer.mozilla.org/en-US/docs/Web/API
