@@ -12,6 +12,7 @@ http://preshing.com/20130618/atomic-vs-non-atomic-operations/ <br>
 http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/ <br>
 https://stackoverflow.com/questions/2241348/what-is-unicode-utf-8-utf-16 <br>
 http://www.kegel.com/c10k.html#related <br>
+https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898 <br>
 
 # python
 https://docs.opencv.org/master/ <br>
