@@ -40,3 +40,6 @@ https://github.com/VundleVim/Vundle.vim <br>
 
 # Web
 https://developer.mozilla.org/en-US/docs/Web/API
+
+# LDPC decoders (my thesis)
+https://nbviewer.jupyter.org/github/kirlf/CSP/blob/master/FEC/LDPC.ipynb
