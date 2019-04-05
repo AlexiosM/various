@@ -1,5 +1,8 @@
 # various hot stuff
 
+# Must Sites
+https://www.guru99.com/<br>
+
 # C++
 http://www.learncpp.com/ <br>
 https://www.cprogramming.com/tutorial.html <br>
