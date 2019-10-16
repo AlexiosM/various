@@ -1,6 +1,7 @@
 # various hot stuff
 
 # Must Sites
+https://refactoring.guru/ (Design Patterns) !!
 https://www.guru99.com/<br>
 
 # C++
