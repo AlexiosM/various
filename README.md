@@ -1,7 +1,8 @@
 # various hot stuff
 
 # Must Sites
-https://refactoring.guru/ (Design Patterns) !!
+https://cwe.mitre.org/index.html (Common Weakness Enumeration)<br>
+https://refactoring.guru/ (Design Patterns) !! <br>
 https://www.guru99.com/<br>
 
 # C++
