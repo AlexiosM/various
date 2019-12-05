@@ -26,6 +26,7 @@ https://www.datasciencecentral.com/profiles/blogs/9-python-libraries-which-can-h
 https://legacy.gitbook.com/book/swaroopch/byte-of-python/details <br>
 https://python.swaroopch.com <br>
 https://github.com/python-gitlab/python-gitlab <br>
+https://www.pydanny.com/python-yields-are-fun.html<br>
 
 # various
 https://www.geeksforgeeks.org/<br>
