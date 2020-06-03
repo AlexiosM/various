@@ -4,6 +4,7 @@
 https://cwe.mitre.org/index.html (Common Weakness Enumeration)<br>
 https://refactoring.guru/ (Design Patterns) !! <br>
 https://www.guru99.com/<br>
+https://tutorialedge.net<br>
 
 # C++
 http://www.learncpp.com/ <br>
