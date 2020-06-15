@@ -29,6 +29,10 @@ https://python.swaroopch.com <br>
 https://github.com/python-gitlab/python-gitlab <br>
 https://www.pydanny.com/python-yields-are-fun.html<br>
 
+# Go
+https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-macos<br>
+https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications<br>
+
 # various
 https://www.geeksforgeeks.org/<br>
 https://www.tutorialspoint.com/tutorialslibrary.htm <br>
