@@ -28,6 +28,21 @@ https://legacy.gitbook.com/book/swaroopch/byte-of-python/details <br>
 https://python.swaroopch.com <br>
 https://github.com/python-gitlab/python-gitlab <br>
 https://www.pydanny.com/python-yields-are-fun.html<br>
+https://realpython.com/<br>
+
+## Learing Python from github repos
+https://github.com/Asabeneh/30-Days-Of-Python<br>
+https://github.com/trekhleb/learn-python<br>
+https://github.com/Avik-Jain/100-Days-Of-ML-Code<br>
+https://github.com/realpython/python-guide<br>
+https://github.com/zhiwehu/Python-programming-exercises<br>
+https://github.com/geekcomputers/Python<br>
+https://github.com/practical-tutorials/project-based-learning<br>
+https://github.com/avinashkranjan/Amazing-Python-Scripts<br>
+https://github.com/TheAlgorithms/Python<br>
+https://github.com/vinta/awesome-python<br>
+
+
 
 # Go
 https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-macos<br>
